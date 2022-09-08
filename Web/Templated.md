@@ -59,3 +59,14 @@ http://159.65.89.165:31913/%7B%7Brequest.application.__globals__.__builtins__.__
 
 ![actual-flag-htb-templated](https://user-images.githubusercontent.com/98345027/189040390-fb0340e5-287c-4971-9f6c-c323494b0e1c.png)
 
+
+
+
+### REFERENCE
+![BLOG]( https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/)
+### NOTE
+```javascript
+TECH-STACK: Python,Flask,jinja2
+VULNERABILITY: SSTI
+```
+
